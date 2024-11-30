@@ -19,4 +19,4 @@ This repository contains the code for creating a structured, single-page CV usin
 To view the project locally, clone this repository:
 
 ```bash
-git clone [[https://github.com/username/single-page-cv.git]()](https://github.com/muhammadnurhuda97/CV-Resume.git)
+git clone https://github.com/muhammadnurhuda97/CV-Resume.git
